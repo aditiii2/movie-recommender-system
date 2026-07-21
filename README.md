@@ -86,16 +86,6 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```text
-screenshots/home.png
-screenshots/results.png
-```
 
 ---
 
